@@ -45,7 +45,7 @@ Displays the AI’s response to user queries.
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/JsFn99/LawAppAi
-   cd law-app
+   cd chat_bot_app
    ```
 
 2. **Install Dependencies**:
@@ -96,7 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to [fnine2015@gmail.com](mailto:fnine2015@gmail.com).
 
 ---
 
