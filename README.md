@@ -40,7 +40,7 @@ Displays the AI’s response to user queries.
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/law-app.git
+   git clone https://github.com/JsFn99/LawAppAi
    cd law-app
    ```
 
