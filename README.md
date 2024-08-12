@@ -18,9 +18,7 @@ The Law App is a comprehensive application designed to store, analyze, and facil
 
 The home page provides access to various legal texts and the AI chat functionality.
 
-### Chat Interface
-
-![Chat Interface](code.png)
+## Chat Interface
 
 The chat interface allows users to interact with the AI assistant by asking questions.
 
