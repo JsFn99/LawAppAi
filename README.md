@@ -20,7 +20,7 @@ The home page provides access to various legal texts and the AI chat functionali
 
 ### Codes Page
 
-![Codes Page](codes.png)
+![Codes Page](codes1.png)
 
 The codes page provides access to various legal codes in pdf format
 
